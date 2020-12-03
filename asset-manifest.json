@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lotr_gitpage/static/css/main.57937be1.chunk.css",
+    "main.css": "/lotr_gitpage/static/css/main.03bc09ff.chunk.css",
     "main.js": "/lotr_gitpage/static/js/main.22cea158.chunk.js",
     "main.js.map": "/lotr_gitpage/static/js/main.22cea158.chunk.js.map",
     "runtime-main.js": "/lotr_gitpage/static/js/runtime-main.7aecf39d.js",
@@ -8,7 +8,7 @@
     "static/js/2.44b4a306.chunk.js": "/lotr_gitpage/static/js/2.44b4a306.chunk.js",
     "static/js/2.44b4a306.chunk.js.map": "/lotr_gitpage/static/js/2.44b4a306.chunk.js.map",
     "index.html": "/lotr_gitpage/index.html",
-    "static/css/main.57937be1.chunk.css.map": "/lotr_gitpage/static/css/main.57937be1.chunk.css.map",
+    "static/css/main.03bc09ff.chunk.css.map": "/lotr_gitpage/static/css/main.03bc09ff.chunk.css.map",
     "static/js/2.44b4a306.chunk.js.LICENSE.txt": "/lotr_gitpage/static/js/2.44b4a306.chunk.js.LICENSE.txt",
     "static/media/1.2f6df01e.jpg": "/lotr_gitpage/static/media/1.2f6df01e.jpg",
     "static/media/2.69bc53fd.jpg": "/lotr_gitpage/static/media/2.69bc53fd.jpg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.7aecf39d.js",
     "static/js/2.44b4a306.chunk.js",
-    "static/css/main.57937be1.chunk.css",
+    "static/css/main.03bc09ff.chunk.css",
     "static/js/main.22cea158.chunk.js"
   ]
 }
