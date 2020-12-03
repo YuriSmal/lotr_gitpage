@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/lotr_gitpage/static/css/main.57937be1.chunk.css",
+    "main.js": "/lotr_gitpage/static/js/main.22cea158.chunk.js",
+    "main.js.map": "/lotr_gitpage/static/js/main.22cea158.chunk.js.map",
+    "runtime-main.js": "/lotr_gitpage/static/js/runtime-main.7aecf39d.js",
+    "runtime-main.js.map": "/lotr_gitpage/static/js/runtime-main.7aecf39d.js.map",
+    "static/js/2.44b4a306.chunk.js": "/lotr_gitpage/static/js/2.44b4a306.chunk.js",
+    "static/js/2.44b4a306.chunk.js.map": "/lotr_gitpage/static/js/2.44b4a306.chunk.js.map",
+    "index.html": "/lotr_gitpage/index.html",
+    "static/css/main.57937be1.chunk.css.map": "/lotr_gitpage/static/css/main.57937be1.chunk.css.map",
+    "static/js/2.44b4a306.chunk.js.LICENSE.txt": "/lotr_gitpage/static/js/2.44b4a306.chunk.js.LICENSE.txt",
+    "static/media/1.2f6df01e.jpg": "/lotr_gitpage/static/media/1.2f6df01e.jpg",
+    "static/media/2.69bc53fd.jpg": "/lotr_gitpage/static/media/2.69bc53fd.jpg",
+    "static/media/3.c5a13e45.jpg": "/lotr_gitpage/static/media/3.c5a13e45.jpg",
+    "static/media/CV_Vitalii_Yakovyshyn.b28a7eaf.pdf": "/lotr_gitpage/static/media/CV_Vitalii_Yakovyshyn.b28a7eaf.pdf",
+    "static/media/CV_Yuri_Smal.3dd4c075.pdf": "/lotr_gitpage/static/media/CV_Yuri_Smal.3dd4c075.pdf",
+    "static/media/H1.370bca13.jpg": "/lotr_gitpage/static/media/H1.370bca13.jpg",
+    "static/media/H2.99c51321.jpg": "/lotr_gitpage/static/media/H2.99c51321.jpg",
+    "static/media/MainContainer.css": "/lotr_gitpage/static/media/anirm___.1153b7f3.ttf",
+    "static/media/ParticularHero.css": "/lotr_gitpage/static/media/a292e6b0786a581e9b5c180e32072a56.648bc6fa.jpg",
+    "static/media/About.css": "/lotr_gitpage/static/media/about-img-yurii.bcfed0e3.jpg",
+    "static/media/book_3.7dfc1152.jpg": "/lotr_gitpage/static/media/book_3.7dfc1152.jpg",
+    "static/media/dwarf.182e2c70.jpg": "/lotr_gitpage/static/media/dwarf.182e2c70.jpg",
+    "static/media/first_bookjpg.ae552076.jpg": "/lotr_gitpage/static/media/first_bookjpg.ae552076.jpg",
+    "static/media/h3.d143601e.jpeg": "/lotr_gitpage/static/media/h3.d143601e.jpeg",
+    "static/media/hobbit.8860e09e.png": "/lotr_gitpage/static/media/hobbit.8860e09e.png",
+    "static/media/orc.3501060e.png": "/lotr_gitpage/static/media/orc.3501060e.png",
+    "static/media/second_book.d4e01794.jpg": "/lotr_gitpage/static/media/second_book.d4e01794.jpg",
+    "static/media/Header.css": "/lotr_gitpage/static/media/Безымянный-1.3b3e9bc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aecf39d.js",
+    "static/js/2.44b4a306.chunk.js",
+    "static/css/main.57937be1.chunk.css",
+    "static/js/main.22cea158.chunk.js"
+  ]
+}
